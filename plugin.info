@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/oflg/fishing-cannedfish",
+    "name": "Fishing Cannedfish",
+    "plugin-type": "plugin",
+    "description": " Learning Pack for Fishing",
+	"dependents": "$:/plugins/oflg/fishing",
+    "author": "oflg",
+    "version": "0.1.0",
+    "list": "readme license",
+    "core-version": ">=5.2.2"
+}
