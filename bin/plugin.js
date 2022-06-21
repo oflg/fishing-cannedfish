@@ -242,6 +242,7 @@ for (const filepath of booksFilepaths) {
             title: title,
             tags: "?",
             word: word,
+            transCn: transCn,
             created: created,
             caption: `{{||$:/plugins/oflg/fishing-cannedfish-${bookName}/Word}}`,
         };
@@ -369,7 +370,7 @@ for (const filepath of booksFilepaths) {
             "plugin-type": "plugin",
             source: "https://github.com/oflg/fishing-cannedfish",
             title: `$:/plugins/oflg/fishing-cannedfish-${bookName}`,
-            version: "0.0.7",
+            version: "0.0.8",
             type: "application/json",
             text: text,
         };
