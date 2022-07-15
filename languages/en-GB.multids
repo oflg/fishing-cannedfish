@@ -2,3 +2,5 @@ title: $:/language/fishing/
 
 cannedfishlibrary: Learning Pack Plugin Library
 cannedfishlibrarytip: This plugin library can be used to install and update Learning Pack.
+cannedfish: Learning Pack
+cannedfishtip: Packaged tiddlers for easy use and sharing, also called Canned Fish.
