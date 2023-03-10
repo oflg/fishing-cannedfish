@@ -1,6 +1,6 @@
-caption: {{$:/language/fishing/cannedfishlibrary}}
+caption: {{$:/language/fishing-cannedfish/cannedfishlibrary}}
 tags: $:/tags/PluginLibrary
 title: $:/config/CannedfishLibrary
 url: https://oflg.github.io/fishing-cannedfish/library/
 
-{{$:/language/fishing/cannedfishlibrarytip}}
+{{$:/language/fishing-cannedfish/cannedfishlibrarytip}}
